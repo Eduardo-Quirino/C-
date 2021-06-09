@@ -1,0 +1,16 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício3\bin\Debug\net5.0\exercício3.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício3\bin\Debug\net5.0\exercício3.deps.json
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício3\bin\Debug\net5.0\exercício3.runtimeconfig.json
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício3\bin\Debug\net5.0\exercício3.runtimeconfig.dev.json
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício3\bin\Debug\net5.0\exercício3.dll
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício3\bin\Debug\net5.0\ref\exercício3.dll
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício3\bin\Debug\net5.0\exercício3.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício3\obj\Debug\net5.0\exercício3.csproj.AssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício3\obj\Debug\net5.0\exercício3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício3\obj\Debug\net5.0\exercício3.AssemblyInfoInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício3\obj\Debug\net5.0\exercício3.AssemblyInfo.cs
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício3\obj\Debug\net5.0\exercício3.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício3\obj\Debug\net5.0\exercício3.dll
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício3\obj\Debug\net5.0\ref\exercício3.dll
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício3\obj\Debug\net5.0\exercício3.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício3\obj\Debug\net5.0\exercício3.genruntimeconfig.cache

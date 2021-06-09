@@ -1,0 +1,16 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\Olá Senac\bin\Debug\net5.0\Olá Senac.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\Olá Senac\bin\Debug\net5.0\Olá Senac.deps.json
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\Olá Senac\bin\Debug\net5.0\Olá Senac.runtimeconfig.json
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\Olá Senac\bin\Debug\net5.0\Olá Senac.runtimeconfig.dev.json
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\Olá Senac\bin\Debug\net5.0\Olá Senac.dll
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\Olá Senac\bin\Debug\net5.0\ref\Olá Senac.dll
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\Olá Senac\bin\Debug\net5.0\Olá Senac.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\Olá Senac\obj\Debug\net5.0\Olá Senac.csproj.AssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\Olá Senac\obj\Debug\net5.0\Olá Senac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\Olá Senac\obj\Debug\net5.0\Olá Senac.AssemblyInfoInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\Olá Senac\obj\Debug\net5.0\Olá Senac.AssemblyInfo.cs
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\Olá Senac\obj\Debug\net5.0\Olá Senac.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\Olá Senac\obj\Debug\net5.0\Olá Senac.dll
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\Olá Senac\obj\Debug\net5.0\ref\Olá Senac.dll
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\Olá Senac\obj\Debug\net5.0\Olá Senac.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\Olá Senac\obj\Debug\net5.0\Olá Senac.genruntimeconfig.cache

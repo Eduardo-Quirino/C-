@@ -1,0 +1,11 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 7\bin\Debug\netcoreapp3.1\exercício 7.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 7\bin\Debug\netcoreapp3.1\exercício 7.deps.json
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 7\bin\Debug\netcoreapp3.1\exercício 7.runtimeconfig.json
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 7\bin\Debug\netcoreapp3.1\exercício 7.runtimeconfig.dev.json
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 7\bin\Debug\netcoreapp3.1\exercício 7.dll
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 7\bin\Debug\netcoreapp3.1\exercício 7.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 7\obj\Debug\netcoreapp3.1\exercício 7.csprojAssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 7\obj\Debug\netcoreapp3.1\exercício 7.AssemblyInfoInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 7\obj\Debug\netcoreapp3.1\exercício 7.AssemblyInfo.cs
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 7\obj\Debug\netcoreapp3.1\exercício 7.dll
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 7\obj\Debug\netcoreapp3.1\exercício 7.pdb

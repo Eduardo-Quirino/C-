@@ -1,0 +1,44 @@
+criar projeto no vscode:
+
+dotnet new console 
+
+
+Para rodar:
+
+dotnet run
+
+Semelhançãs com visualg:
+
+    WriteLine = escreval
+    Write = escreva
+    Console.WriteLine = Escreval
+    Console.Write = Escreva
+    
+    *Sem interatividade com o usuÃ¡rio*
+
+Console.WriteLine("OlÃ¡, Mundo!");
+Console.ReadKey();
+
+OBS: Na tela preta (console), escreva (WriteLine) o conteÃºdo (" ") e dentro da tela (Console) pause na prÃ³xima linha (ReadKey();)
+
+
+*Interatividade com o usuÃ¡rio*
+
+int idade;
+Console.WriteLine("Digite sua idade");
+idade=Convert.ToInt32(Console.ReadLine());
+Console.ReadKey();
+
+OBS: Na tela preta (Console), Escreva (WriteLine) o conteÃºdo (" "), depois insira dentro da variÃ¡vel (idade=), converta a resposta para o tipo da var com (Convert.ToInt32) e leia a resposta (Console.ReadLine())
+
+---------------------------------------------------------
+
+OBS: Concatenar : +
+
+---------------------------------------------------------
+
+Math.Round : Formatar as casas de um resultado
+
+sintaxe: Math.Around(var, nÂº de casas);
+
+--------------------------------------------------------
