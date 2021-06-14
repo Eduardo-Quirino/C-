@@ -1,0 +1,7 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Condicionais na prática\Condicionais na prática\obj\Debug\Condicionais na prática.csproj.AssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Condicionais na prática\Condicionais na prática\obj\Debug\Condicionais na prática.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Condicionais na prática\Condicionais na prática\bin\Debug\Condicionais na prática.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Condicionais na prática\Condicionais na prática\bin\Debug\Condicionais na prática.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Condicionais na prática\Condicionais na prática\bin\Debug\Condicionais na prática.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Condicionais na prática\Condicionais na prática\obj\Debug\Condicionais na prática.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Condicionais na prática\Condicionais na prática\obj\Debug\Condicionais na prática.pdb

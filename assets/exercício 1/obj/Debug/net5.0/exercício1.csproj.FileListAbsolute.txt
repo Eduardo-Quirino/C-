@@ -14,3 +14,6 @@ C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício1\obj\Debug\net5.0\
 C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício1\obj\Debug\net5.0\ref\exercício1.dll
 C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício1\obj\Debug\net5.0\exercício1.pdb
 C:\Users\edu35\OneDrive\Documentos\Senac\C#\assets\exercício1\obj\Debug\net5.0\exercício1.genruntimeconfig.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 1\obj\Debug\net5.0\exercício1.dll
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 1\obj\Debug\net5.0\ref\exercício1.dll
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 1\obj\Debug\net5.0\exercício1.pdb

@@ -1,0 +1,7 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Operadores lógicos\Operadores lógicos\bin\Debug\Operadores lógicos.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Operadores lógicos\Operadores lógicos\bin\Debug\Operadores lógicos.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Operadores lógicos\Operadores lógicos\bin\Debug\Operadores lógicos.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Operadores lógicos\Operadores lógicos\obj\Debug\Operadores lógicos.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Operadores lógicos\Operadores lógicos\obj\Debug\Operadores lógicos.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Operadores lógicos\Operadores lógicos\obj\Debug\Operadores lógicos.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Operadores lógicos\Operadores lógicos\obj\Debug\Operadores lógicos.csproj.AssemblyReference.cache

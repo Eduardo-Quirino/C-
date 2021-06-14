@@ -6,7 +6,7 @@ namespace Olá_Senac
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Olá Senac sou o Eduardo!");
+            Console.WriteLine("Olá Senac sou o Eduardo. E esse é meu primeiro projeto C# ! ");
             Console.ReadKey();
         }
     }

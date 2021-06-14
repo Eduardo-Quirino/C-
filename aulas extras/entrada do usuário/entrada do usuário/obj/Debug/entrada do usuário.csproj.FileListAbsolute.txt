@@ -1,0 +1,7 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\entrada do usuário\entrada do usuário\bin\Debug\entrada do usuário.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\entrada do usuário\entrada do usuário\bin\Debug\entrada do usuário.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\entrada do usuário\entrada do usuário\bin\Debug\entrada do usuário.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\entrada do usuário\entrada do usuário\obj\Debug\entrada do usuário.csproj.AssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\entrada do usuário\entrada do usuário\obj\Debug\entrada do usuário.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\entrada do usuário\entrada do usuário\obj\Debug\entrada do usuário.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\entrada do usuário\entrada do usuário\obj\Debug\entrada do usuário.pdb

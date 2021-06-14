@@ -1,0 +1,7 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Retorno_de_funções 2\Retorno_de_funções 2\bin\Debug\Retorno_de_funções 2.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Retorno_de_funções 2\Retorno_de_funções 2\bin\Debug\Retorno_de_funções 2.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Retorno_de_funções 2\Retorno_de_funções 2\bin\Debug\Retorno_de_funções 2.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Retorno_de_funções 2\Retorno_de_funções 2\obj\Debug\Retorno_de_funções 2.csproj.AssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Retorno_de_funções 2\Retorno_de_funções 2\obj\Debug\Retorno_de_funções 2.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Retorno_de_funções 2\Retorno_de_funções 2\obj\Debug\Retorno_de_funções 2.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Retorno_de_funções 2\Retorno_de_funções 2\obj\Debug\Retorno_de_funções 2.pdb

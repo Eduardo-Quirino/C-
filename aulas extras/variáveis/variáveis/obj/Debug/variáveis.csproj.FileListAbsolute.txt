@@ -1,0 +1,7 @@
+C:\Users\edu35\source\repos\variáveis\variáveis\bin\Debug\variáveis.exe.config
+C:\Users\edu35\source\repos\variáveis\variáveis\bin\Debug\variáveis.exe
+C:\Users\edu35\source\repos\variáveis\variáveis\bin\Debug\variáveis.pdb
+C:\Users\edu35\source\repos\variáveis\variáveis\obj\Debug\variáveis.csproj.AssemblyReference.cache
+C:\Users\edu35\source\repos\variáveis\variáveis\obj\Debug\variáveis.csproj.CoreCompileInputs.cache
+C:\Users\edu35\source\repos\variáveis\variáveis\obj\Debug\variáveis.exe
+C:\Users\edu35\source\repos\variáveis\variáveis\obj\Debug\variáveis.pdb

@@ -1,0 +1,7 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\operadores aritméticos\operadores aritméticos\obj\Debug\operadores aritméticos.csproj.AssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\operadores aritméticos\operadores aritméticos\obj\Debug\operadores aritméticos.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\operadores aritméticos\operadores aritméticos\bin\Debug\operadores aritméticos.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\operadores aritméticos\operadores aritméticos\bin\Debug\operadores aritméticos.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\operadores aritméticos\operadores aritméticos\bin\Debug\operadores aritméticos.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\operadores aritméticos\operadores aritméticos\obj\Debug\operadores aritméticos.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\operadores aritméticos\operadores aritméticos\obj\Debug\operadores aritméticos.pdb

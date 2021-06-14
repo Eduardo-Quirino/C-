@@ -1,0 +1,7 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Funções 2\Funções 2\bin\Debug\Funções 2.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Funções 2\Funções 2\bin\Debug\Funções 2.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Funções 2\Funções 2\bin\Debug\Funções 2.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Funções 2\Funções 2\obj\Debug\Funções 2.csproj.AssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Funções 2\Funções 2\obj\Debug\Funções 2.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Funções 2\Funções 2\obj\Debug\Funções 2.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Funções 2\Funções 2\obj\Debug\Funções 2.pdb

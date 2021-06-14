@@ -1,0 +1,6 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Retorno de funções\Retorno de funções\bin\Debug\Retorno de funções.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Retorno de funções\Retorno de funções\bin\Debug\Retorno de funções.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Retorno de funções\Retorno de funções\bin\Debug\Retorno de funções.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Retorno de funções\Retorno de funções\obj\Debug\Retorno de funções.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Retorno de funções\Retorno de funções\obj\Debug\Retorno de funções.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\aulas extras\Retorno de funções\Retorno de funções\obj\Debug\Retorno de funções.pdb
