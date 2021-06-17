@@ -1,0 +1,6 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 28\exercício 28\obj\Debug\exercício 28.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 28\exercício 28\bin\Debug\exercício 28.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 28\exercício 28\bin\Debug\exercício 28.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 28\exercício 28\bin\Debug\exercício 28.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 28\exercício 28\obj\Debug\exercício 28.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 28\exercício 28\obj\Debug\exercício 28.pdb

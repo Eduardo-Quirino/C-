@@ -1,0 +1,6 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 29\exercício 29\obj\Debug\exercício 29.csprojResolveAssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 29\exercício 29\bin\Debug\exercício 29.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 29\exercício 29\bin\Debug\exercício 29.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 29\exercício 29\bin\Debug\exercício 29.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 29\exercício 29\obj\Debug\exercício 29.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 29\exercício 29\obj\Debug\exercício 29.pdb

@@ -1,0 +1,7 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 19\exercício 19\bin\Debug\exercício 19.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 19\exercício 19\bin\Debug\exercício 19.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 19\exercício 19\bin\Debug\exercício 19.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 19\exercício 19\obj\Debug\exercício 19.csproj.AssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 19\exercício 19\obj\Debug\exercício 19.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 19\exercício 19\obj\Debug\exercício 19.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 19\exercício 19\obj\Debug\exercício 19.pdb

@@ -1,0 +1,7 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 22\exercício 22\obj\Debug\exercício 22.csproj.AssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 22\exercício 22\obj\Debug\exercício 22.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 22\exercício 22\bin\Debug\exercício 22.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 22\exercício 22\bin\Debug\exercício 22.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 22\exercício 22\bin\Debug\exercício 22.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 22\exercício 22\obj\Debug\exercício 22.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 22\exercício 22\obj\Debug\exercício 22.pdb

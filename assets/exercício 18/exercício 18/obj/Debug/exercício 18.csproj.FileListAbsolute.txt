@@ -1,0 +1,7 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 18\exercício 18\obj\Debug\exercício 18.csproj.AssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 18\exercício 18\obj\Debug\exercício 18.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 18\exercício 18\bin\Debug\exercício 18.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 18\exercício 18\bin\Debug\exercício 18.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 18\exercício 18\bin\Debug\exercício 18.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 18\exercício 18\obj\Debug\exercício 18.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 18\exercício 18\obj\Debug\exercício 18.pdb

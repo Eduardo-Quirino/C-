@@ -1,0 +1,6 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 33\exercício 33\obj\Debug\exercício 33.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 33\exercício 33\bin\Debug\exercício 33.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 33\exercício 33\bin\Debug\exercício 33.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 33\exercício 33\bin\Debug\exercício 33.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 33\exercício 33\obj\Debug\exercício 33.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 33\exercício 33\obj\Debug\exercício 33.pdb

@@ -1,0 +1,7 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 4\exercício 4\bin\Debug\exercício 4.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 4\exercício 4\bin\Debug\exercício 4.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 4\exercício 4\bin\Debug\exercício 4.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 4\exercício 4\obj\Debug\exercício 4.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 4\exercício 4\obj\Debug\exercício 4.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 4\exercício 4\obj\Debug\exercício 4.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 4\exercício 4\obj\Debug\exercício 4.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\Olá Senac\Olá Senac\bin\Debug\Olá Senac.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\Olá Senac\Olá Senac\bin\Debug\Olá Senac.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\Olá Senac\Olá Senac\bin\Debug\Olá Senac.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\Olá Senac\Olá Senac\obj\Debug\Olá Senac.csproj.AssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\Olá Senac\Olá Senac\obj\Debug\Olá Senac.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\Olá Senac\Olá Senac\obj\Debug\Olá Senac.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\Olá Senac\Olá Senac\obj\Debug\Olá Senac.pdb
