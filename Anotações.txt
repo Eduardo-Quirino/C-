@@ -3,7 +3,7 @@ dotnet new console
 
 Para rodar:
 dotnet run
-------------------------------------------------------------------
+-------------------------------------------------------------------------------
 Os tipos integrais:
 
 -Os dois tipos de ponto flutuante, float e double , são representados usando os formatos IEEE 754 de precisão única de 32 bits e de 64 bits de precisão dupla.
@@ -13,38 +13,52 @@ Os tipos integrais:
 -boolO tipo do C# é usado para representar valores Boolianos — valores que são true ou false .
 
 -O processamento de cadeia de caracteres e caracteres em C# usa codificação Unicode. O tipo char representa uma unidade de código UTF-16 e o tipo string representa uma sequência de unidades de código UTF-16.
-------------------------------------------------------------------
+-------------------------------------------------------------------------------
 Comentários Aceitos
 
 //linha 
 /**/ multiplas linhas
 
--------------------------------------------------------------------
-Variáveis
-   //--> Int-inteiros (-156 como 32456)  
-   //--> Float-flutuantes com casas decimais colocasse 'f' no final do valor ==> Double / Decimal(1.45 como 14.000)
-   //--> Bool-boleano- true ou false
-   //--> String- " texto "
-   //--> Char- 'caracter'
+-------------------------------------------------------------------------------
+A tabela a seguir resume os tipos numéricos do C#.
+  
+Categoria	        Bits	    Tipo       Intervalo/precisão
 
-------------------------------------------------------------------
+Integral assinada         8         sbyte      -128... 127               
+                          16        short      -32768... 32, 767
+                          32        int        -2147483648... 2, 147, 483, 647
+                          64        long       -9.223.372.036.854.775.808... 9,                                                 223, 372, 036, 854, 775, 807
+
+Integral sem sinal        8         byte        0... 255
+                          16        ushort      0... 65, 535
+                          32        uint        0... 4, 294, 967, 295
+                          64        ulong       0... 18, 446, 744, 073, 709,                                                    551, 615
+Ponto flutuante           32        float      1,5 × 10 ^ − 45 a 3,4 × 10^38,                                                  precisão de 7 dígitos
+
+                          64        double     5,0 × 10 ^ − 324 a 1,7 ×                                                        10^308,precisão de 15 dígitos
+
+Decimal                   128       decimal    1,0 × 10 ^ − 28 a 7,9 × 10 ^ 28,                                                precisão de 28 dígitos  
+
+Uma declaração de tipo especifica o nome e os membros do novo tipo
+-------------------------------------------------------------------------------
 
 Semelhançãs com visualg:
 
-    WriteLine = escreval
-    Write = escreva
-    Console.WriteLine = Escreval
-    Console.Write = Escreva
+    WriteLine = escreval "escreve e quebra linha"
+    Write = escreva "escreve na mesma linha"
+
+    Console.WriteLine = Escreval "escreve e quebra linha"
+    Console.Write = Escreva "escreve na mesma linha"
     
     *Sem interatividade com o usuário *
 
-Console.WriteLine("OlÃ¡, Mundo!");
+Console.WriteLine("Olá¡, Mundo!");
 Console.ReadKey();//ou Console.ReadLine
 
 OBS: Na tela preta (console), escreva (WriteLine) o conteudo (" ") e dentro da tela (Console) pause na próxima linha (ReadKey();)
 
 
-*Interatividade com o usuário *
+*SINTAXE_Interatividade com o usuário *
 
 int idade;
 Console.WriteLine("Digite sua idade");
@@ -53,22 +67,22 @@ Console.ReadKey();
 
 OBS: Na tela preta (Console), Escreva (WriteLine) o conteÃºdo (" "), depois insira dentro da variÃ¡vel (idade=), converta a resposta para o tipo da var com (Convert.ToInt32) e leia a resposta (Console.ReadLine())
 
----------------------------------------------------------
+-------------------------------------------------------------------------------
 Console.ReadKey(); -Precione uma tecla antes que o programa proceda com uma tarefa.
 
 Console.ReadLine(); -o usuario nos dê  alguma informação, a maneira mais fácilde fazer isso é ler uma linha a partir do teclado. 
 
------------------------------------------------------
+-------------------------------------------------------------------------------
 
 OBS: Concatenar : +
 
----------------------------------------------------------
+-------------------------------------------------------------------------------
 
 Math.Round : Formatar as casas de um resultado
 
-sintaxe: Math.Around(var, nÂº de casas);
+sintaxe: Math.Around(var, N° de casas);
 
---------------------------------------------------------
+-------------------------------------------------------------------------------
 CONDICIONAL 
           &&(E/END)
              (V) (V) => true
@@ -85,6 +99,6 @@ CONDICIONAL
 
          !(não)
 
--------------------------------------------------------
+-------------------------------------------------------------------------------
 
  

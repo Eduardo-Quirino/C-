@@ -1,0 +1,7 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\1-atividades_assíncronas\exercício 8\exercício 8\bin\Debug\exercício 8.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\1-atividades_assíncronas\exercício 8\exercício 8\bin\Debug\exercício 8.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\1-atividades_assíncronas\exercício 8\exercício 8\bin\Debug\exercício 8.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\1-atividades_assíncronas\exercício 8\exercício 8\obj\Debug\exercício 8.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\1-atividades_assíncronas\exercício 8\exercício 8\obj\Debug\exercício 8.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\1-atividades_assíncronas\exercício 8\exercício 8\obj\Debug\exercício 8.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\1-atividades_assíncronas\exercício 8\exercício 8\obj\Debug\exercício 8.csproj.AssemblyReference.cache

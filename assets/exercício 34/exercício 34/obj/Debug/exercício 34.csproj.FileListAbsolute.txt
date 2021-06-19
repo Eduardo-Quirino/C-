@@ -1,0 +1,7 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 34\exercício 34\bin\Debug\exercício 34.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 34\exercício 34\bin\Debug\exercício 34.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 34\exercício 34\bin\Debug\exercício 34.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 34\exercício 34\obj\Debug\exercício 34.csproj.AssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 34\exercício 34\obj\Debug\exercício 34.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 34\exercício 34\obj\Debug\exercício 34.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\exercício 34\exercício 34\obj\Debug\exercício 34.pdb
