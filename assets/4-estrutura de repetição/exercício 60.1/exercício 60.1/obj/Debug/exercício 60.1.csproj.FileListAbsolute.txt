@@ -1,0 +1,6 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\4-estrutura de repetição\exercício 60.1\exercício 60.1\bin\Debug\exercício 60.1.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\4-estrutura de repetição\exercício 60.1\exercício 60.1\bin\Debug\exercício 60.1.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\4-estrutura de repetição\exercício 60.1\exercício 60.1\bin\Debug\exercício 60.1.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\4-estrutura de repetição\exercício 60.1\exercício 60.1\obj\Debug\exercício 60.1.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\4-estrutura de repetição\exercício 60.1\exercício 60.1\obj\Debug\exercício 60.1.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\4-estrutura de repetição\exercício 60.1\exercício 60.1\obj\Debug\exercício 60.1.pdb
