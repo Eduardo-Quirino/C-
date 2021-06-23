@@ -4,20 +4,21 @@ dotnet new console
 Para rodar:
 dotnet run
 -------------------------------------------------------------------------------
+
+Comentários Aceitos
+
+//linha 
+/**/ multiplas linhas
 Os tipos integrais:
+-------------------------------------------------------------------------------
 
 -Os dois tipos de ponto flutuante, float e double , são representados usando os formatos IEEE 754 de precisão única de 32 bits e de 64 bits de precisão dupla.
 
 -O tipo decimal é um tipo de dados de 128 bits adequado para cálculos financeiros e monetários.
 
--boolO tipo do C# é usado para representar valores Boolianos — valores que são true ou false .
+-bool tipo do C# é usado para representar valores Boolianos — valores que são true ou false .
 
 -O processamento de cadeia de caracteres e caracteres em C# usa codificação Unicode. O tipo char representa uma unidade de código UTF-16 e o tipo string representa uma sequência de unidades de código UTF-16.
--------------------------------------------------------------------------------
-Comentários Aceitos
-
-//linha 
-/**/ multiplas linhas
 
 -------------------------------------------------------------------------------
 A tabela a seguir resume os tipos numéricos do C#.
