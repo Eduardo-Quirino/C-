@@ -1,0 +1,7 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\4-estrutura de repetição\exercício 47\exercício 47\bin\Debug\exercício 47.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\4-estrutura de repetição\exercício 47\exercício 47\bin\Debug\exercício 47.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\4-estrutura de repetição\exercício 47\exercício 47\bin\Debug\exercício 47.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\4-estrutura de repetição\exercício 47\exercício 47\obj\Debug\exercício 47.csproj.AssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\4-estrutura de repetição\exercício 47\exercício 47\obj\Debug\exercício 47.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\4-estrutura de repetição\exercício 47\exercício 47\obj\Debug\exercício 47.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\4-estrutura de repetição\exercício 47\exercício 47\obj\Debug\exercício 47.pdb

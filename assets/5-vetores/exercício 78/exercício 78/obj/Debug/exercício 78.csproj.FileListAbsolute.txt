@@ -1,0 +1,7 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\exercício 78\exercício 78\bin\Debug\exercício 78.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\exercício 78\exercício 78\bin\Debug\exercício 78.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\exercício 78\exercício 78\bin\Debug\exercício 78.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\exercício 78\exercício 78\obj\Debug\exercício 78.csproj.AssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\exercício 78\exercício 78\obj\Debug\exercício 78.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\exercício 78\exercício 78\obj\Debug\exercício 78.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\exercício 78\exercício 78\obj\Debug\exercício 78.pdb

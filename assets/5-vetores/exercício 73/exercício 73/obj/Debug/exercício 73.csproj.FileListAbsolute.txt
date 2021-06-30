@@ -1,0 +1,6 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\exercício 73\exercício 73\bin\Debug\exercício 73.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\exercício 73\exercício 73\bin\Debug\exercício 73.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\exercício 73\exercício 73\bin\Debug\exercício 73.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\exercício 73\exercício 73\obj\Debug\exercício 73.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\exercício 73\exercício 73\obj\Debug\exercício 73.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\exercício 73\exercício 73\obj\Debug\exercício 73.pdb

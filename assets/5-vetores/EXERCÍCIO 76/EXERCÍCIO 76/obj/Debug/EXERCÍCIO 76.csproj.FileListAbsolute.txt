@@ -1,0 +1,7 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\EXERCÍCIO 76\EXERCÍCIO 76\bin\Debug\EXERCÍCIO 76.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\EXERCÍCIO 76\EXERCÍCIO 76\bin\Debug\EXERCÍCIO 76.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\EXERCÍCIO 76\EXERCÍCIO 76\bin\Debug\EXERCÍCIO 76.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\EXERCÍCIO 76\EXERCÍCIO 76\obj\Debug\EXERCÍCIO 76.csproj.AssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\EXERCÍCIO 76\EXERCÍCIO 76\obj\Debug\EXERCÍCIO 76.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\EXERCÍCIO 76\EXERCÍCIO 76\obj\Debug\EXERCÍCIO 76.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\EXERCÍCIO 76\EXERCÍCIO 76\obj\Debug\EXERCÍCIO 76.pdb

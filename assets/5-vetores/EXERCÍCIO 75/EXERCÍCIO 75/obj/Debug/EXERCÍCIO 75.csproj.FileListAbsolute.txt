@@ -1,0 +1,7 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\EXERCÍCIO 75\EXERCÍCIO 75\obj\Debug\EXERCÍCIO 75.csproj.AssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\EXERCÍCIO 75\EXERCÍCIO 75\obj\Debug\EXERCÍCIO 75.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\EXERCÍCIO 75\EXERCÍCIO 75\bin\Debug\EXERCÍCIO 75.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\EXERCÍCIO 75\EXERCÍCIO 75\bin\Debug\EXERCÍCIO 75.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\EXERCÍCIO 75\EXERCÍCIO 75\bin\Debug\EXERCÍCIO 75.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\EXERCÍCIO 75\EXERCÍCIO 75\obj\Debug\EXERCÍCIO 75.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\5-vetores\EXERCÍCIO 75\EXERCÍCIO 75\obj\Debug\EXERCÍCIO 75.pdb
