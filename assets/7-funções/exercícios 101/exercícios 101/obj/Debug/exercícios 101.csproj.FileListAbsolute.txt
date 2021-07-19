@@ -1,0 +1,7 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\7-funções\exercícios 101\exercícios 101\bin\Debug\exercícios 101.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\7-funções\exercícios 101\exercícios 101\bin\Debug\exercícios 101.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\7-funções\exercícios 101\exercícios 101\bin\Debug\exercícios 101.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\7-funções\exercícios 101\exercícios 101\obj\Debug\exercícios 101.csproj.AssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\7-funções\exercícios 101\exercícios 101\obj\Debug\exercícios 101.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\7-funções\exercícios 101\exercícios 101\obj\Debug\exercícios 101.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\7-funções\exercícios 101\exercícios 101\obj\Debug\exercícios 101.pdb

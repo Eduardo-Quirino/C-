@@ -1,0 +1,7 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\6-matrizes\exercício 94\exercício 94\bin\Debug\exercício 94.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\6-matrizes\exercício 94\exercício 94\bin\Debug\exercício 94.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\6-matrizes\exercício 94\exercício 94\bin\Debug\exercício 94.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\6-matrizes\exercício 94\exercício 94\obj\Debug\exercício 94.csproj.AssemblyReference.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\6-matrizes\exercício 94\exercício 94\obj\Debug\exercício 94.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\6-matrizes\exercício 94\exercício 94\obj\Debug\exercício 94.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\6-matrizes\exercício 94\exercício 94\obj\Debug\exercício 94.pdb

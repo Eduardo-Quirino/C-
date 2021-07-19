@@ -1,0 +1,6 @@
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\7-funções\exercício 98\exercício 98\bin\Debug\exercício 98.exe.config
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\7-funções\exercício 98\exercício 98\bin\Debug\exercício 98.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\7-funções\exercício 98\exercício 98\bin\Debug\exercício 98.pdb
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\7-funções\exercício 98\exercício 98\obj\Debug\exercício 98.csproj.CoreCompileInputs.cache
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\7-funções\exercício 98\exercício 98\obj\Debug\exercício 98.exe
+C:\Users\edu35\OneDrive\Documentos\Senac\csharp\assets\7-funções\exercício 98\exercício 98\obj\Debug\exercício 98.pdb
