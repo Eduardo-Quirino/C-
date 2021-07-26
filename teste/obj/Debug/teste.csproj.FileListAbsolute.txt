@@ -1,0 +1,7 @@
+C:\Users\edu35\Documents\senac\csharp\teste\bin\Debug\teste.exe.config
+C:\Users\edu35\Documents\senac\csharp\teste\bin\Debug\teste.exe
+C:\Users\edu35\Documents\senac\csharp\teste\bin\Debug\teste.pdb
+C:\Users\edu35\Documents\senac\csharp\teste\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\edu35\Documents\senac\csharp\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\edu35\Documents\senac\csharp\teste\obj\Debug\teste.exe
+C:\Users\edu35\Documents\senac\csharp\teste\obj\Debug\teste.pdb
