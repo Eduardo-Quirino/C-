@@ -1,0 +1,8 @@
+C:\Users\Eduardo\Documents\Senac\csharp\aplicativos\OláMundo\OláMundo\bin\Debug\OláMundo.exe.config
+C:\Users\Eduardo\Documents\Senac\csharp\aplicativos\OláMundo\OláMundo\bin\Debug\OláMundo.exe
+C:\Users\Eduardo\Documents\Senac\csharp\aplicativos\OláMundo\OláMundo\bin\Debug\OláMundo.pdb
+C:\Users\Eduardo\Documents\Senac\csharp\aplicativos\OláMundo\OláMundo\obj\Debug\OláMundo.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\Senac\csharp\aplicativos\OláMundo\OláMundo\obj\Debug\OláMundo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\Documents\Senac\csharp\aplicativos\OláMundo\OláMundo\obj\Debug\OláMundo.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Senac\csharp\aplicativos\OláMundo\OláMundo\obj\Debug\OláMundo.exe
+C:\Users\Eduardo\Documents\Senac\csharp\aplicativos\OláMundo\OláMundo\obj\Debug\OláMundo.pdb
