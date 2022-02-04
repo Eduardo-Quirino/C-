@@ -9,6 +9,8 @@ aulas de C# ministrado pela instituição Senac em 2021
 
 Revisão de aulas :
 
-" ﻿Publicado em 07/06/2021 - introdução a aula" ok
+" ﻿Publicado em 07/06/2021 - introdução a aula"✔
 
-" ﻿Publicado em 08/06/2021 -  "
+" ﻿Publicado em 08/06/2021 -  logica de programação"✔
+
+" ﻿﻿Publicado em 09/06/2021 -  logica de programação"

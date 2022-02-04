@@ -1,0 +1,8 @@
+C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\csharp\aplicativos\exercício 3.3\exercício 3.3\bin\Debug\exercício 3.3.exe.config
+C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\csharp\aplicativos\exercício 3.3\exercício 3.3\bin\Debug\exercício 3.3.exe
+C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\csharp\aplicativos\exercício 3.3\exercício 3.3\bin\Debug\exercício 3.3.pdb
+C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\csharp\aplicativos\exercício 3.3\exercício 3.3\obj\Debug\exercício 3.3.csproj.AssemblyReference.cache
+C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\csharp\aplicativos\exercício 3.3\exercício 3.3\obj\Debug\exercício 3.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\csharp\aplicativos\exercício 3.3\exercício 3.3\obj\Debug\exercício 3.3.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\csharp\aplicativos\exercício 3.3\exercício 3.3\obj\Debug\exercício 3.3.exe
+C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\csharp\aplicativos\exercício 3.3\exercício 3.3\obj\Debug\exercício 3.3.pdb
