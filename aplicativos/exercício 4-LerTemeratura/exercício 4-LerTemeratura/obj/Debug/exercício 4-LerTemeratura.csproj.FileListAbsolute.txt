@@ -1,0 +1,8 @@
+C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\csharp\aplicativos\exercício 4-LerTemeratura\exercício 4-LerTemeratura\bin\Debug\exercício 4-LerTemeratura.exe.config
+C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\csharp\aplicativos\exercício 4-LerTemeratura\exercício 4-LerTemeratura\bin\Debug\exercício 4-LerTemeratura.exe
+C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\csharp\aplicativos\exercício 4-LerTemeratura\exercício 4-LerTemeratura\bin\Debug\exercício 4-LerTemeratura.pdb
+C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\csharp\aplicativos\exercício 4-LerTemeratura\exercício 4-LerTemeratura\obj\Debug\exercício 4-LerTemeratura.csproj.AssemblyReference.cache
+C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\csharp\aplicativos\exercício 4-LerTemeratura\exercício 4-LerTemeratura\obj\Debug\exercício 4-LerTemeratura.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\csharp\aplicativos\exercício 4-LerTemeratura\exercício 4-LerTemeratura\obj\Debug\exercício 4-LerTemeratura.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\csharp\aplicativos\exercício 4-LerTemeratura\exercício 4-LerTemeratura\obj\Debug\exercício 4-LerTemeratura.exe
+C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\csharp\aplicativos\exercício 4-LerTemeratura\exercício 4-LerTemeratura\obj\Debug\exercício 4-LerTemeratura.pdb
